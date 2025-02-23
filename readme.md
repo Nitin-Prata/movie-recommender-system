@@ -22,7 +22,7 @@ Check out the live version of the Movie Recommender System here:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/movie-recommender-system.git
+git clone https://github.com/Nitin-Prata/movie-recommender-system.git
 cd movie-recommender-system
 ```
 
