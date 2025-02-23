@@ -2,6 +2,9 @@
 
 A Content-Based Movie Recommendation System built using Machine Learning with scikit-learn and IMDB dataset, deployed on Streamlit. This project suggests movies based on the user's favorite movie by analyzing movie similarities.
 
+## 🚀 Live Demo
+Check out the live version of the Movie Recommender System here:  
+👉 [Live App on Streamlit](https://movie-recommender-system-kpnoxdbuhymjiyaqnx82zs.streamlit.app/)
 
 
 ## ✨ Features
